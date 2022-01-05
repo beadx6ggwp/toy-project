@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <H1>KeyBordTest</H1>
+    <br>
+    <H1 id="press">Press</H1>
+    <H1 id="keycode">KeyCode</H1>
+    <H1 id="count">Count</H1>
+    <script>
+        console.log("start1");
+        var press = "", count = 0;
+        document.onkeydown = function (e) {
+            count = e.key == press ? ++count : 0;
+            press = e.key;
+
+            document.getElementById("press").textContent = "Press : " + e.key;
+            document.getElementById("keycode").textContent = "KeyCode : " + e.keyCode;
+            document.getElementById("count").textContent = "Count : " + count;
+            console.log(e.key, e.keyCode);
+
+            return false;
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,91 @@
+C:\Users\DavidHus\Desktop\MODE\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.3 - 複製\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.3 - 複製\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.3 - 複製\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.3 - 複製\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.3 - 複製\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.3 - 複製\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.3 - 複製\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.3 - 複製\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.3 - 複製\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\five\MODE var0.3 - 複製\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\five\MODE var0.3 - 複製\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\five\MODE var0.3 - 複製\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\five\MODE var0.3 - 複製\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\five\MODE var0.3 - 複製\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\five\MODE var0.3 - 複製\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\five\MODE var0.3 - 複製\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\five\MODE var0.3 - 複製\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\five\MODE var0.3 - 複製\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_五子棋\MODE var0.3.1\MODE\bin\Debug\MODE.exe.config
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_五子棋\MODE var0.3.1\MODE\bin\Debug\MODE.exe
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_五子棋\MODE var0.3.1\MODE\bin\Debug\MODE.pdb
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_五子棋\MODE var0.3.1\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_五子棋\MODE var0.3.1\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_五子棋\MODE var0.3.1\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_五子棋\MODE var0.3.1\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_五子棋\MODE var0.3.1\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_五子棋\MODE var0.3.1\MODE\obj\Debug\MODE.exe
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_五子棋\MODE var0.3.1\MODE\obj\Debug\MODE.pdb

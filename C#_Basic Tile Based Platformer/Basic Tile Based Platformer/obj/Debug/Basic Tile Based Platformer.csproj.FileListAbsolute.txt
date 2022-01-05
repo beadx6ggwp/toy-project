@@ -1,0 +1,9 @@
+C:\Users\DavidHus\Desktop\Basic Tile Based Platformer\Basic Tile Based Platformer\bin\Debug\Basic Tile Based Platformer.exe.config
+C:\Users\DavidHus\Desktop\Basic Tile Based Platformer\Basic Tile Based Platformer\bin\Debug\Basic Tile Based Platformer.exe
+C:\Users\DavidHus\Desktop\Basic Tile Based Platformer\Basic Tile Based Platformer\bin\Debug\Basic Tile Based Platformer.pdb
+C:\Users\DavidHus\Desktop\Basic Tile Based Platformer\Basic Tile Based Platformer\obj\Debug\Basic Tile Based Platformer.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\Basic Tile Based Platformer\Basic Tile Based Platformer\obj\Debug\Basic_Tile_Based_Platformer.Form1.resources
+C:\Users\DavidHus\Desktop\Basic Tile Based Platformer\Basic Tile Based Platformer\obj\Debug\Basic_Tile_Based_Platformer.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\Basic Tile Based Platformer\Basic Tile Based Platformer\obj\Debug\Basic Tile Based Platformer.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\Basic Tile Based Platformer\Basic Tile Based Platformer\obj\Debug\Basic Tile Based Platformer.exe
+C:\Users\DavidHus\Desktop\Basic Tile Based Platformer\Basic Tile Based Platformer\obj\Debug\Basic Tile Based Platformer.pdb

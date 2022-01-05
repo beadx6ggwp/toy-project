@@ -1,0 +1,54 @@
+C:\Users\DavidHus\Desktop\ball\ball\bin\Debug\ball.exe.config
+C:\Users\DavidHus\Desktop\ball\ball\bin\Debug\ball.exe
+C:\Users\DavidHus\Desktop\ball\ball\bin\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\ball\ball\obj\Debug\ball.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\ball\ball\obj\Debug\ball.Form1.resources
+C:\Users\DavidHus\Desktop\ball\ball\obj\Debug\ball.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\ball\ball\obj\Debug\ball.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\ball\ball\obj\Debug\ball.exe
+C:\Users\DavidHus\Desktop\ball\ball\obj\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\ball 2\ball\bin\Debug\ball.exe.config
+C:\Users\DavidHus\Desktop\ball 2\ball\obj\Debug\ball.exe
+C:\Users\DavidHus\Desktop\ball 2\ball\obj\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\ball 2\ball\bin\Debug\ball.exe
+C:\Users\DavidHus\Desktop\ball 2\ball\bin\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\ball 2\ball\obj\Debug\ball.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\ball 2\ball\obj\Debug\ball.Form1.resources
+C:\Users\DavidHus\Desktop\ball 2\ball\obj\Debug\ball.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\ball 2\ball\obj\Debug\ball.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\ball 3\ball\bin\Debug\ball.exe.config
+C:\Users\DavidHus\Desktop\ball 3\ball\obj\Debug\ball.exe
+C:\Users\DavidHus\Desktop\ball 3\ball\obj\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\ball 3\ball\bin\Debug\ball.exe
+C:\Users\DavidHus\Desktop\ball 3\ball\bin\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\ball 3\ball\obj\Debug\ball.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\ball 3\ball\obj\Debug\ball.Form1.resources
+C:\Users\DavidHus\Desktop\ball 3\ball\obj\Debug\ball.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\ball 3\ball\obj\Debug\ball.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3\ball\bin\Debug\ball.exe.config
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3\ball\obj\Debug\ball.exe
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3\ball\obj\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3\ball\bin\Debug\ball.exe
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3\ball\bin\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3\ball\obj\Debug\ball.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3\ball\obj\Debug\ball.Form1.resources
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3\ball\obj\Debug\ball.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3\ball\obj\Debug\ball.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3 - 複製\ball\bin\Debug\ball.exe.config
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3 - 複製\ball\obj\Debug\ball.exe
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3 - 複製\ball\obj\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3 - 複製\ball\bin\Debug\ball.exe
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3 - 複製\ball\bin\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3 - 複製\ball\obj\Debug\ball.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3 - 複製\ball\obj\Debug\ball.Form1.resources
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3 - 複製\ball\obj\Debug\ball.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\diep模仿系列\ball 3 - 複製\ball\obj\Debug\ball.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\diep模仿系列\ball ver0.2\ball\bin\Debug\ball.exe.config
+C:\Users\DavidHus\Desktop\diep模仿系列\ball ver0.2\ball\obj\Debug\ball.exe
+C:\Users\DavidHus\Desktop\diep模仿系列\ball ver0.2\ball\obj\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\diep模仿系列\ball ver0.2\ball\bin\Debug\ball.exe
+C:\Users\DavidHus\Desktop\diep模仿系列\ball ver0.2\ball\bin\Debug\ball.pdb
+C:\Users\DavidHus\Desktop\diep模仿系列\ball ver0.2\ball\obj\Debug\ball.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\diep模仿系列\ball ver0.2\ball\obj\Debug\ball.Form1.resources
+C:\Users\DavidHus\Desktop\diep模仿系列\ball ver0.2\ball\obj\Debug\ball.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\diep模仿系列\ball ver0.2\ball\obj\Debug\ball.csproj.GenerateResource.Cache

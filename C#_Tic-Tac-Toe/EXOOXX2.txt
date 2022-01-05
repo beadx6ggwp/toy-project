@@ -1,0 +1,108 @@
+Public Class Form1
+    Dim b(9) As Button
+    Dim turn As Boolean 'turn值是記錄輪到先玩者還是後玩者
+    Dim s(0) As Integer 's陣列用來存放每個方格的狀態值。設定沒按過為0，○為1，&#215;為2
+    Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
+        b(1) = Button1
+        b(2) = Button2
+        b(3) = Button3
+        b(4) = Button4
+        b(5) = Button5
+        b(6) = Button6
+        b(7) = Button7
+        b(8) = Button8
+        b(9) = Button9
+
+        Dim a As Integer
+        For a = 1 To 9
+            b(a).Enabled = True
+            b(a).Text = &quot;&quot;
+            s(a) = 0
+        Next
+        turn = True '第一次按按鈕會顯示○
+    End Sub
+
+    Private Sub Button_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click, Button2.Click, Button3.Click, Button4.Click, Button5.Click, Button6.Click, Button7.Click, Button8.Click, Button9.Click
+        Dim no As Integer = Microsoft.VisualBasic.Right((CType(sender, Button).Name), 1) 'no參數是用來判斷按了哪個按鈕
+
+
+            If turn = True Then
+                b(no).Text = &quot;○&quot;
+                s(no) = 1
+
+            Else
+                b(no).Text = &quot;&#215;&quot;
+                s(no) = 2
+
+            End If
+            turn = Not turn
+            
+
+            If s(1) * s(2) * s(3) = 1 Then
+                Label1.Text = &quot;○贏！&quot;
+
+            ElseIf s(4) * s(5) * s(6) = 1 Then
+                Label1.Text = &quot;○贏！&quot;
+
+            ElseIf s(7) * s(8) * s(9) = 1 Then
+                Label1.Text = &quot;○贏！&quot;
+
+            ElseIf s(1) * s(4) * s(7) = 1 Then
+                Label1.Text = &quot;○贏！&quot;
+
+            ElseIf s(2) * s(5) * s(8) = 1 Then
+                Label1.Text = &quot;○贏！&quot;
+
+            ElseIf s(3) * s(6) * s(9) = 1 Then
+                Label1.Text = &quot;○贏！&quot;
+
+            ElseIf s(1) * s(5) * s(9) = 1 Then
+                Label1.Text = &quot;○贏！&quot;
+
+            ElseIf s(3) * s(5) * s(7) = 1 Then
+                Label1.Text = &quot;○贏！&quot;
+
+            ElseIf s(1) * s(2) * s(3) = 8 Then
+                Label1.Text = &quot;&#215;贏！&quot;
+
+            ElseIf s(4) * s(5) * s(6) = 8 Then
+                Label1.Text = &quot;&#215;贏！&quot;
+
+            ElseIf s(7) * s(8) * s(9) = 8 Then
+                Label1.Text = &quot;&#215;贏！&quot;
+
+            ElseIf s(1) * s(4) * s(7) = 8 Then
+                Label1.Text = &quot;&#215;贏！&quot;
+
+            ElseIf s(2) * s(5) * s(8) = 8 Then
+                Label1.Text = &quot;&#215;贏！&quot;
+
+            ElseIf s(3) * s(6) * s(9) = 8 Then
+                Label1.Text = &quot;&#215;贏！&quot;
+
+            ElseIf s(1) * s(5) * s(9) = 8 Then
+                Label1.Text = &quot;&#215;贏！&quot;
+
+        ElseIf s(3) * s(5) * s(7) = 8 Then
+            Label1.Text = &quot;&#215;贏！&quot;
+
+
+            End If
+            If Label1.Text &lt;&gt; &quot;&quot; Then
+                Dim a As Integer
+                For a = 1 To 9
+                    b(a).Enabled = False '遊戲結果出來時，按鈕無法再被按下
+                Next
+            End If
+
+    End Sub
+
+    Private Sub Button10_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button10.Click
+        Dim a As Integer
+        For a = 1 To 9
+            b(a).Enabled = True
+            b(a).Text = &quot;&quot;
+            s(a) = 0
+        Next
+        Label1.Text = &quot;&quot;
+    End Sub
